@@ -5,7 +5,7 @@ Ready to use dashboard starter/seed project based on Angular 2 and AdminLTE boot
 [![dependencies up to date](https://david-dm.org/hasanhameed07/angular2-dashboard-starter.svg)](https://david-dm.org/hasanhameed07/angular2-dashboard-starter)
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/hasanhameed07/angular2-dashboard-starter)
 
-##Features
+## Features
 
 - [Angular 2](https://angular.io/) version 2.0.0-beta.8 using [Typescript](http://www.typescriptlang.org/)
 - Live reload & compile
